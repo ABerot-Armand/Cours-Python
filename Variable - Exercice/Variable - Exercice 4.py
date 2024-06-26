@@ -1,0 +1,5 @@
+lon=float(input("Quelle est la longueur du rectangle ? "))
+lar=float(input("Et sa largeur ? "))
+peri=(lon*2)+(lar*2)
+aire=(lon*lar)
+print("Le périmètre du rectangle est de",peri,", l'aire du rectangle est de ",aire,)
